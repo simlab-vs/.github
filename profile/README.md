@@ -1,4 +1,4 @@
-# Welcome to the Github repository of the Scientific and Industrial Machine Learning Laboratory (SIMLab)
+# Welcome to the Scientific and Industrial Machine Learning Laboratory (SIMLab)
 
 The Scientific and Industrial Machine Learning Laboratory (SIMLab) at [HES-SO Valais](https://www.hevs.ch) focuses 
 on developing and applying machine learning (ML) techniques to solve complex problems in close collaboration with 
